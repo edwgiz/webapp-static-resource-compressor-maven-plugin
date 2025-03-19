@@ -1,0 +1,12 @@
+/*
+ * Test CSS to compress
+ */
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: left;
+    padding-left: 2vw;
+    padding-bottom: 1vw;
+    line-height: 1.6;
+}
